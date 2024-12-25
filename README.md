@@ -5,12 +5,13 @@ An theme made and reccomended to work with Mint-X (or the old theme of Mint), it
 
 ## Better Recommendation
 My personal reccomendation is using it with Tango2 icons and Mint-X GTK theme
-![image](https://github.com/user-attachments/assets/24323760-8b21-4d5f-b904-d5218ef0b43b)
+![image](https://github.com/user-attachments/assets/45314ed3-cf54-4547-8b8b-30231f43ad39)
 
 
 # Credits
 Credits to the Boomerang project which created most of the assets used in this
 
 # Image
-![image](https://github.com/user-attachments/assets/7a14852a-e97b-47f8-b1b0-e66a2db33ba4)
+![image](https://github.com/user-attachments/assets/35863287-613f-4f2f-9229-8879896faee2)
+
 
